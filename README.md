@@ -1,4 +1,4 @@
-# Power-Spectral-Density
+# Power-Spectral-Density [![DOI](https://zenodo.org/badge/652526054.svg)](https://zenodo.org/badge/latestdoi/652526054)
 A MATLAB function to calculate the power spectral density of the random signal using the modified Welch's alghorithm.
 
 File example.txt contains the single collidal CdSeS/ZnS quantum dot blinking data. Example.m is the MATLAB script intended to familiarize you with the procedure for working with the necessary functions.
